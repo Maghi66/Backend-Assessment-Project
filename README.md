@@ -4,11 +4,6 @@
 ## Purpose  
 This project is a backend REST API to manage employee leaves and expense claims. It provides endpoints for managing departments, employees, leave types, leaves, expense types, and expense claims. The API is built with Spring Boot and uses PostgreSQL as the database.
 
-## Objectives
-- Build a REST API with standard CRUD operations
-- Implement business logic for leave and expense tracking
-- Ensure code quality, security, and test coverage
-- Provide Swagger UI documentation for easy API exploration
 
 ## Technologies Used
 - Visual Studio Code (VS Code) – Development Environment
