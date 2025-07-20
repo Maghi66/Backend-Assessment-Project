@@ -35,6 +35,9 @@ This project is a backend REST API to manage employee leaves and expense claims.
 -Access the application: navigate to http://localhost:8081/swagger-ui/index.html
 
 ## Testing
+Before running the test cases, please make sure to modify the example data in each test case to avoid inserting duplicate records.
+For example, if the test case for **DepartmentController** attempts to create a department with the name **"Marketing"** and this already exists in the database (from a previous test run), a duplicate entry error will occur. The same applies to the other controllers (EmployeeControllerTest, LeaveControllerTest, ExpenseControllerTest).
+
 Run the test cases using JUnit for testing all the controllers:
 ```bash
 ./mvnw -Dtest=DepartmentControllerTest test
