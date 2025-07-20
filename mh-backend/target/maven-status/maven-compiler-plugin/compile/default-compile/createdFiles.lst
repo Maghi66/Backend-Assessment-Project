@@ -1,0 +1,6 @@
+com\mh\mhbackend\model\Department.class
+com\mh\mhbackend\config\SecurityConfig.class
+com\mh\mhbackend\MhBackendApplication.class
+com\mh\mhbackend\repository\DepartmentRepository.class
+com\mh\mhbackend\model\Employee.class
+com\mh\mhbackend\controller\DepartmentController.class

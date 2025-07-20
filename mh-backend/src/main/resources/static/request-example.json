@@ -1,0 +1,18 @@
+{
+  "employeeId": 1,
+  "date": "2025-08-10",
+  "status": "pending",
+  "expenseTypeId": 2,
+  "entries": [
+    {
+      "date": "2025-08-01",
+      "description": "Flight Ticket",
+      "total": 350
+    },
+    {
+      "date": "2025-08-01",
+      "description": "Accommodation",
+      "total": 200
+    }
+  ]
+}
